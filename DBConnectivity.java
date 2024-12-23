@@ -1,6 +1,6 @@
 package com.freddie.to_do_list_app.DBConnectivity;
 
-import java.sql.Connection;
+import java.sql.Connection; // connection to database
 import java.sql.DriverManager;
 
 public class DBConnectivity {
